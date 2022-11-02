@@ -16,7 +16,7 @@ It's like a blind injection of commands that is very primitive, but hard to dete
 
 # Options
 
-You can edit some things for example the random time that is being used to decide the interval of the script execution. (default=<0,10>)
+You can edit some things for example the random time that is being used to decide the interval of the script execution. (default=<1,10>)
 The script is writen to be easy to understand. Feel free to commit.
 
 
