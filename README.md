@@ -12,7 +12,7 @@ It's like a blind injection of commands that is very primitive, but hard to dete
 3. Edit the script, so that it has your paste link.
 4. Make the script a windows executable. You can name it something like some popular tech brand name or something and add a realistic icon. (I personally use auto-py-to-exe script to do this as It's like the easiest way and you don't have to watch any tutorials to do it.)
 5. Install the script preferably to the startup folder on a victim's machine, or run it.
-6. If you created the paste with an accound, you can edit it. You can use tor and tempmail to mitigate your privacy concerns about creating an accound.
+6. If you created the paste with an account, you can edit it. You can use tor and tempmail to mitigate your privacy concerns about creating an account.
 
 # Options
 
